@@ -6,8 +6,7 @@
 }
 
 body {
-	background: url(hotairballoons.jpg) no-repeat center;
-
+	background: url(intro2.jpg) no-repeat center;
 }
 
 .signup-form{
@@ -16,4 +15,18 @@ body {
 
 .email{
 	color: #000;
+}
+
+h1,h3{
+	background-color: rgba(0,0,0,0.4);
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#mc-embed-signup{
+text-align: center;
+}
+
+#mc_embed_signup_scroll{
+	text-align: center;
 }
